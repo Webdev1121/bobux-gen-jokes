@@ -6,7 +6,7 @@ Written In Python Language
 
 # How It Works?
 
-importing some modules and forces installing it -> print some text -> verification required -> redirect to a website -> exit
+importing some modules and forces installing it (if the module not installed) -> print some text -> verification required -> redirect to a website -> exit
 
 # Codes
 
