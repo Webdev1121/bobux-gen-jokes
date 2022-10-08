@@ -2,7 +2,7 @@
 
 Bobux Gen (Jokes)
 
-WARNING! THIS IS FAKE BOBUX GEN!
+<h4>WARNING! THIS IS FAKE BOBUX GEN! (use it to prank ur n00b roblox player)</h4>
 
 Written In Python Language
 
