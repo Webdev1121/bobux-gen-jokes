@@ -1,6 +1,8 @@
-# bobux-gen-jokes
+# bobux-gen
 
-Bobux Gen Jokes
+Bobux Gen (Jokes)
+
+WARNING! THIS IS FAKE BOBUX GEN!
 
 Written In Python Language
 
